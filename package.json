@@ -1,0 +1,13 @@
+{
+  "name": "pomofocus",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Pranav Rao <56097527+pranavrao145@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
